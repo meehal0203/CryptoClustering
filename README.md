@@ -61,3 +61,5 @@
 
 * The explained variance ratio of close to 90% means that the first principal components in the PCA analysis explain 90% of the variance in your data, a number we can comfortably feel retains most of the important information in the data.
 <img width="613" alt="Screenshot 2024-03-12 at 1 28 18 PM" src="https://github.com/meehal0203/CryptoClustering/assets/146681542/604fb42b-34e4-4267-9d82-c6ef93c398bc">
+
+Resources used: Stack Overflow, BCS Learning Assistant and Tutoring were used as resources for this assignment
